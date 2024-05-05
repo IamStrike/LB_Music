@@ -28,4 +28,4 @@
 <a href="https://telegram.me/TEAM_HELL"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ʜᴇʟʟ](https://github.com/IamStrike) ғᴏʀ [ʜᴇʟʟ x ᴍᴜꜱɪᴄ](https://github.com/IamStrike)_ </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [Strike](https://github.com/IamStrike) ғᴏʀ [ʜᴇʟʟ x ᴍᴜꜱɪᴄ](https://github.com/IamStrike)_ </b>
